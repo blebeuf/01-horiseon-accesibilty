@@ -5,11 +5,6 @@ Accessibility for horiseon
 
 This webpage is our bootcamp's first assignment at Northwesterns Bootcamp. The assignment is to practice both optimizing your HTML and CSS code base, as well as making ALL projects accesbile. Here we added alt text as a practice measure.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -28,6 +23,8 @@ N/A
 This is a webpage for the group, Horiseon Social Solution Services, Inc.. The page describes the teams ability to successfully navigate digital marketing channels while optimizing your social media.
 
 ![Screenshot of completed website](./assets/images/screenshot.png)
+
+[Horiseon-main-page](https://blebeuf.github.io/01-horiseon-accesibilty/)
 
 ## Credits
 
