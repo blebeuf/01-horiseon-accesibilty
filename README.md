@@ -5,6 +5,8 @@ Accessibility for horiseon
 
 This webpage is our bootcamp's first assignment at Northwesterns Bootcamp. The assignment is to practice both optimizing your HTML and CSS code base, as well as making ALL projects accesbile. Here we added alt text as a practice measure.
 
+Alt text is only the baseline for making a website accesbile, but though it may seem insignificant it's vital to add to my practice as a web developer.
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
